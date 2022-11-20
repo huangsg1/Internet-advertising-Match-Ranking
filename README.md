@@ -10,7 +10,14 @@
 - [Learning Tree-based Deep Model for Recommender Systems.](http://arxiv.org/abs/1801.02294v1) by Han Zhu et al. KDD 2018. [Code](https://github.com/alibaba/x-deeplearning/wiki/%E6%B7%B1%E5%BA%A6%E6%A0%91%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B(TDM)). (Alibaba Group)
 
 ## 2. Rank Model 
-- 补充中
+### 中文材料
+- [腾讯技术--一文彻底搞懂CTR建模(1)](https://zhuanlan.zhihu.com/p/421454292)
+- [腾讯技术--一文彻底搞懂CTR建模(2)](https://zhuanlan.zhihu.com/p/582534683)
+
+
+
+### 论文
+- 
 
 ## 3. Creatives （创意）
 - [A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising.](https://arxiv.org/abs/2102.04033?spm=ata.13261165.0.0.20a15452AbEw3D&file=2102.04033) by Shiyao Wang et al. WWW 2021. (Alibaba Group)
