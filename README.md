@@ -9,6 +9,7 @@
 - [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems.](http://arxiv.org/pdf/1902.07565.pdf) by Han Zhu et al. NeurIPS 2019.  (Alibaba Group)
 - [Learning Tree-based Deep Model for Recommender Systems.](http://arxiv.org/abs/1801.02294v1) by Han Zhu et al. KDD 2018. [Code](https://github.com/alibaba/x-deeplearning/wiki/%E6%B7%B1%E5%BA%A6%E6%A0%91%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B(TDM)). (Alibaba Group)
 
+
 ## 2. Rank Model 
 ### 中文材料
 - [腾讯技术--一文彻底搞懂CTR建模(1)](https://zhuanlan.zhihu.com/p/421454292)
