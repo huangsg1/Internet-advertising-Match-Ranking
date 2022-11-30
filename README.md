@@ -18,6 +18,8 @@
 - [腾讯技术--一文彻底搞懂CTR建模(1)](https://zhuanlan.zhihu.com/p/421454292)
 - [腾讯技术--一文彻底搞懂CTR建模(2)](https://zhuanlan.zhihu.com/p/582534683)
 
+### 延迟反馈建模
+- defer:[中文链接](https://zhuanlan.zhihu.com/p/412871074)
 
 
 ### 论文
