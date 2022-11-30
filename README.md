@@ -14,7 +14,7 @@
 
 
 ## 2. Rank Model 
-### 中文材料
+### 综述材料
 - [腾讯技术--一文彻底搞懂CTR建模(1)](https://zhuanlan.zhihu.com/p/421454292)
 - [腾讯技术--一文彻底搞懂CTR建模(2)](https://zhuanlan.zhihu.com/p/582534683)
 
