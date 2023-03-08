@@ -23,6 +23,8 @@
 
 
 ### 论文
+#### 长期价值预估
+- [A DEEP PROBABILISTIC MODEL FOR CUSTOMER LIFETIME VALUE PREDICTION](https://arxiv.org/pdf/1912.07753.pdf)
 - 
 
 ## 3. Creatives （创意）
