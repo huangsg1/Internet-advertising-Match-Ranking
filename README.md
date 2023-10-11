@@ -37,3 +37,5 @@ with Tree Structure](https://zheng-kai.com/paper/aaai_2021_chen.pdf) by Jin Chen
 ### 4.1 样本选择偏差问题（Bias）
 - [An Empirical Study of Selection Bias in Pinterest Ads Retrieval](https://dl.acm.org/doi/10.1145/3580305.3599771) by KDD’23
   - [中文：Pinterest搜索广告: 召回阶段样本选择偏差问题实证分析](https://zhuanlan.zhihu.com/p/651119931)
+### 4.2 Uplift Modeling
+- [一文读懂增益模型Uplift Model](https://zhuanlan.zhihu.com/p/599355166)
