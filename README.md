@@ -39,3 +39,6 @@ with Tree Structure](https://zheng-kai.com/paper/aaai_2021_chen.pdf) by Jin Chen
   - [中文：Pinterest搜索广告: 召回阶段样本选择偏差问题实证分析](https://zhuanlan.zhihu.com/p/651119931)
 ### 4.2 Uplift Modeling
 - [一文读懂增益模型Uplift Model](https://zhuanlan.zhihu.com/p/599355166)
+### 4.3 不确定性建模
+- [基于深度置信度感知学习的广告投放探索方案](https://zhuanlan.zhihu.com/p/408535657)
+- [不确定度建模（上）-贝叶斯推断基础](https://zhuanlan.zhihu.com/p/139470659)
